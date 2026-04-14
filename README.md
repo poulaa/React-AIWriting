@@ -1,7 +1,6 @@
 # 🤖 AI Text Assistant – Intelligent Content Engine
 
 **Role:** Frontend Engineer  
-**Live Demo:** [https://react-ai-writing.vercel.app/](https://react-ai-writing.vercel.app/)
 
 **Project Overview:** A modern, AI-integrated writing assistant designed for real-time text generation and content optimization. Built with a focus on asynchronous data handling and high-fidelity user interactions.
 
